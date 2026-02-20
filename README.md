@@ -47,4 +47,3 @@ A small collection of Bootstrap-based learning activities and demo pages used fo
 - No license file is included. Add a `LICENSE` if you want to specify reuse terms.
 - Repository owner: JLNerecina (GitHub)
 
-If you want, I can add example run scripts, a `LICENSE`, or expand the activity READMEs.
