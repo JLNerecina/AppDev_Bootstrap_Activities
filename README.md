@@ -2,13 +2,14 @@
 
 A small collection of Bootstrap-based learning activities and demo pages used for practicing responsive layout and basic web development workflows. This repo contains static examples and small interactive exercises used during Applications Development coursework.
 
+✨ **[Check the Activity Here!](https://appdev-bootstrap-activities.vercel.app/)** ✨
+
 **Contents**
 - **Project:** A set of activity folders demonstrating Bootstrap usage and simple web examples.
 - **Root files:** `index.html`, project Bootstrap assets, and activity folders (`Activity1`..`Activity5`).
 
 **Prerequisites**
 - **Browser:** Any modern web browser to view the static pages.
-- **PHP (optional):** `Activity1` contains `index.php` and requires a PHP server to run dynamic PHP pages.
 
 **Run locally**
 - **Static files:** Serve the repo root and open `index.html`.
