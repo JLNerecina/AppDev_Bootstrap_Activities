@@ -9,7 +9,7 @@
   <h1>🚀 AppDev Bootstrap Adventures</h1>
   <p><strong>A vibrant collection of responsive web magic built with Bootstrap 5</strong></p>
 
-  <img src="https://github.com/JLNerecina/AppDev_Bootstrap_Activities/blob/main/App%20Dev%20Portfolio%20Preview.png" width="180" alt="John Lian R. Profile" style="border-radius: 50%; box-shadow: 0 10px 30px rgba(121, 82, 179, 0.3);">
+  <img src="https://github.com/JLNerecina/AppDev_Bootstrap_Activities/blob/main/App%20Dev%20Portfolio%20Preview.png" alt="John Lian R. Profile" style="border-radius: 50%; box-shadow: 0 10px 30px rgba(121, 82, 179, 0.3);">
 
   <br><br>
 
