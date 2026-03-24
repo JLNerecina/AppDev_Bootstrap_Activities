@@ -13,7 +13,7 @@
 
   <br><br>
 
-  [![Live Demo](https://img.shields.io/badge/Live_Demo-View_Online-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://appdev-bootstrap-activities-gkrs.vercel.app)
+  [![Live Demo](https://img.shields.io/badge/Live_Demo-View_Online-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://appdev-bootstrap-activities.vercel.app/)
   [![GitHub repo size](https://img.shields.io/github/repo-size/JLNerecina/AppDev_Bootstrap_Activities?style=for-the-badge)](https://github.com/JLNerecina/AppDev_Bootstrap_Activities)
 
   <p><em>Turning classroom activities into a stunning responsive dashboard — because learning Bootstrap should feel awesome!</em></p>
